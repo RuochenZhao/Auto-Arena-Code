@@ -1,6 +1,11 @@
 This is the repo for paper "Auto-Arena: Automating LLM Evaluations with Agent Peer-battles and Committee Discussions".
 
-## How to use the repository
+## Reproducing the graphs and figures
+
+All code for reproducing the graphs and figures are included in analysis_scripts/result_analysis.ipynb
+
+
+## How to use the repository to run code
 
 Prepare the environment:
 1. Set up the environment using: conda env create -f env.yml
