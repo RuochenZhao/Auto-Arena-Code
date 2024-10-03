@@ -1,4 +1,4 @@
-This is the repo for paper "Auto Arena of LLMs: Automating LLM Evaluations with Agent Peer-battles and Committee Discussions".
+This is the repo for paper "Auto-Arena: Automating LLM Evaluations with Agent Peer-battles and Committee Discussions".
 
 ## How to use the repository
 
@@ -17,7 +17,7 @@ Before including any participants, make sure:
 
 **To add a new participant to a finished tournament**, here is an example command:
 
-1. python run_tournament_add_participant.py --tournament_dir data/main_tour_40 --add_participant SenseChat_5
+1. python run_tournament_add_participant.py --tournament_dir data/main_tour_40 --add_participant gemini-1.5-flash-exp-0827
 
 **To run debates between a pair of selected models**, here is an example command:
 
